@@ -10,7 +10,7 @@
 
 
 
-배포 URL: [https://super-market9.netlify.app/](https://super-market9.netlify.app/)
+배포 URL: [https://super-market-sang.netlify.app/](https://super-market-sang.netlify.app/)
 
 테스트 계정: id(`sang2973`), pw(`nocat123!`)
 <br />
